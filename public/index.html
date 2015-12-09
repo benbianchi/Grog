@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html ng-app="grogApp">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="google" value="notranslate">
+
+
+    <title>Grog</title>
+    
+    
+    
+    <link rel='stylesheet prefetch' href='//fonts.googleapis.com/icon?family=Material+Icons'>
+<link rel='stylesheet prefetch' href='//storage.googleapis.com/code.getmdl.io/1.0.2/material.teal-red.min.css'>
+
+    
+    
+    
+    
+  </head>
+
+  <body>
+
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <span class="mdl-layout-title">Grog <small ng-controller="metaController">{{version}}</small></span>
+      <div class="mdl-layout-spacer"></div>
+      <nav class="mdl-navigation">
+				<a class="mdl-navigation__link" href="#">Home</a>
+				<a class="mdl-navigation__link" href="/ontap.html">Browse</a>
+				<a class="mdl-navigation__link" href="#">About</a>
+      </nav>
+			
+			<!-- start search form -->
+			<div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
+				<label class="mdl-button mdl-js-button mdl-button--icon" for="search-expandable">
+					<i class="material-icons">search</i>
+				</label>
+				<div class="mdl-textfield__expandable-holder">
+					<input class="mdl-textfield__input" type="text" id="search-expandable" />
+					<label class="mdl-textfield__label" for="search-expandable">Search text</label>
+				</div>
+			</div>
+			<!-- end search form -->
+			
+    </div>
+  </header>
+	<div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Grog</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="#">Products</a>
+      <a class="mdl-navigation__link" href="#">Services</a>
+      <a class="mdl-navigation__link" href="#">Portfolios</a>
+      <a class="mdl-navigation__link" href="#">Achievements</a>
+      <a class="mdl-navigation__link" href="#">Blog</a>
+    </nav>
+  </div>
+  </div>
+  <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--4-col"></div>
+  <div class="mdl-cell mdl-cell--4-col">4</div>
+  <div class="mdl-cell mdl-cell--4-col">4</div>
+    </div>
+    
+
+  
+  
+    
+    
+    
+  </body>
+    <script src='//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js'></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="controller/controllers.js"></script>
+</html>
+ 
