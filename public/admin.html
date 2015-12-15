@@ -60,12 +60,19 @@
 <div class="spacer"></div>
 <div class="mdl-grid">
   <div class="mdl-cell mdl-cell--2-col"></div>
-  <div class="mdl-cell mdl-cell--8-col" ng-controller="getValveObjects">
-  <h3 style="text-align:center">Valves</h3>
-    <div ng-repeat="v in allValves" class="mdl-textfield mdl-js-textfield block" >
-      <input class="mdl-textfield__input" type="text" id="fname" value="">
+  <div class="mdl-cell mdl-cell--8-col" data-ng-controller="valveController">
+  <h3 style="text-align:center"  >Valves</h3>
+
+  <span ng-repeat="v in allValves" class="block">
+    <div class="mdl-textfield mdl-js-textfield" >
+      <input class="mdl-textfield__input" type="text" id="fname" value="{{v.type}}">
       <label class="mdl-textfield__label" for="fname">Type</label>
     </div>
+    <div class="mdl-textfield mdl-js-textfield" >
+      <input class="mdl-textfield__input" type="text" id="fname" value="{{v.amount}}">
+      <label class="mdl-textfield__label" for="fname">Amount in mL</label>
+    </div>
+  </span>
   <!-- Raised button -->
 <button class="mdl-button mdl-js-button mdl-button--raised">Save</button>
   </div>
