@@ -45,10 +45,54 @@
 
 #detail_Modal
 {
-	background: whitesmoke;
-	height: calc( 100% - 64px);
+	margin-top: 60px;
+	background: #E3E3E3;
+	position: absolute;
+	height: 0px;
+	box-shadow: 0px 20px 50px gray;
 }
+
+#detail_Modal *
+{
+	opacity: 0;
+}
+
 
 .hidden{
 	visibility:hidden;
+}
+
+.drink-card
+{
+	position: relative;
+	width:200px;
+	padding-right: 10px;
+	
+}
+
+.hideOnStart
+{
+	opacity: 0;
+	display: none;
+
+}
+
+.mdl-layout__drawer
+{
+	z-index: 1000;
+}
+
+#modal_close
+{
+	text-align: right;
+	position: absolute;
+		top: 40px;
+		right: 40px;
+		font-size: 4em;
+		color:gray;		
+}
+
+#modal_close:hover
+{
+	color:blue;
 }

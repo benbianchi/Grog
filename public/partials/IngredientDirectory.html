@@ -1,0 +1,17 @@
+<div class="mdl-cell mdl-cell--6-col"><h3>Ingredients</h3>
+<table ng-controller="IngredientController"	class="mdl-data-table mdl-js-data-table" style="width:100%">
+  <thead>
+    <tr>
+      <th class="mdl-data-table__cell--non-numeric">Title</th>
+      <th class="mdl-data-table__cell--non-numeric">Price Per Milliliter</th>
+      <th class="mdl-data-table__cell--non-numeric">archType</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="ingredient in ingredients">
+      <td class="mdl-data-table__cell--non-numeric"><a href="ingredients.html#/view/{{$index}}">{{ingredient.name}}</a></td>
+      <td class="mdl-data-table__cell--non-numeric">{{ingredient.pricePerMl}}</td>
+      <td class="mdl-data-table__cell--non-numeric">{{ingredient.archeType}}</td>
+    </tr>
+  </tbody>
+</table>

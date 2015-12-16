@@ -49,11 +49,11 @@
    <div class="mdl-layout__drawer">
     <span class="mdl-layout-title">Grog</span>
     <nav class="mdl-navigation">
-      <a class="mdl-navigation__link" href="#">Products</a>
-      <a class="mdl-navigation__link" href="#">Services</a>
-      <a class="mdl-navigation__link" href="#">Portfolios</a>
-      <a class="mdl-navigation__link" href="#">Achievements</a>
-      <a class="mdl-navigation__link" href="#">Blog</a>
+      <a class="mdl-navigation__link" href="#Valve_Heading">Valves</a>
+      <a class="mdl-navigation__link" href="#">Prices</a>
+      <a class="mdl-navigation__link" href="#">Statistics</a>
+      <a class="mdl-navigation__link" href="#">Other</a>
+      <!-- <a class="mdl-navigation__link" href="#">Blog</a> -->
     </nav>
   </div>
 </div>
@@ -61,20 +61,21 @@
 <div class="mdl-grid">
   <div class="mdl-cell mdl-cell--2-col"></div>
   <div class="mdl-cell mdl-cell--8-col" data-ng-controller="valveController">
-  <h3 style="text-align:center"  >Valves</h3>
+  <h3 style="text-align:center"  id="Valve_Heading">Valves</h3>
 
   <span ng-repeat="v in allValves" class="block">
+  <h5 style="display:inline-block; margin-right:40px;">Valve {{$index}}</h4>
     <div class="mdl-textfield mdl-js-textfield" >
       <input class="mdl-textfield__input" type="text" id="fname" value="{{v.type}}">
       <label class="mdl-textfield__label" for="fname">Type</label>
     </div>
-    <div class="mdl-textfield mdl-js-textfield" >
+    <div class="mdl-textfield mdl-js-textfield" style="margin-left:60px;">
       <input class="mdl-textfield__input" type="text" id="fname" value="{{v.amount}}">
       <label class="mdl-textfield__label" for="fname">Amount in mL</label>
     </div>
   </span>
   <!-- Raised button -->
-<button class="mdl-button mdl-js-button mdl-button--raised">Save</button>
+<button class="mdl-button mdl-js-button mdl-button--raised" style="left:calc(50% - 30px)">Save</button>
   </div>
   <div class="mdl-cell mdl-cell--2-col"></div>
 </div>

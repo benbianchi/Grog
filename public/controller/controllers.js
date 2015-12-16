@@ -6,21 +6,27 @@ grogApp.controller('metaController', function ($scope) {
 
 
 grogApp.controller('titlePageDrinks', function ($scope) {
-  $scope.popularAvaliableDrinks = [{title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
-  {title:"Gin and Tonic", description:"a bianchi favorite", hits:1}]
+  $scope.popularAvaliableDrinks = [{id:0,title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
+  {id:1,title:"Gin and Tonic", description:"a bianchi favorite", hits:1}]
 });
 
 grogApp.controller('browseAllDrinks', function ($scope) {
-	$scope.allDrinks = [{title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
-  {title:"Gin and Tonic", description:"a bianchi favorite", hits:1}];
+	$scope.allDrinks = [{id:0,title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
+  {id:1,title:"Gin and Tonic", description:"a bianchi favorite", hits:1}];
   $scope.stamp = "now";
 
 
 	
 })
- grogApp.controller('getCompleteDetailsDrink' ,function ($scope ,index) {
- 	$scope.allDrinks = [{title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
-  {title:"Gin and Tonic", description:"a bianchi favorite", hits:1}];
+ grogApp.controller('getCompleteDetailsDrink' ,function ($scope) {
 
- 	$scope.detailed =$scope.allDrinks[index];
+ 	var allDrinks = [{id:0,title:"Dirty Whiskey", description:"2 of these and youll be flying with frank sinatra",hits:0},
+  {id:1,title:"Gin and Tonic", description:"a bianchi favorite", hits:1}];
+
+ 	$scope.select = function(index)
+ 	{
+ 		$scope.selectedDrink = allDrinks[index];
+ 		console.log($scope.selectedDrink);
+ 	}
+
  });
