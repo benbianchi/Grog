@@ -1,4 +1,37 @@
-<div class="mdl-cell mdl-cell--6-col"><h3>Edit</h3>
-<div style="background:blue;">
-	{{message}}
-</div>
+<a href="#/"class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+  Back
+</a>
+<h2>Edit Ingredient</h2>
+
+<form action="" style="align-items: center; padding-left:calc(50% - 150px); background:whitesmoke;margin-bottom:40px;">
+<div class="mdl-textfield mdl-js-textfield block is-dirty">
+    <input ng-model="ingredient._id" class="mdl-textfield__input is-upgraded is-dirty" disabled type="text" id="sample1">
+    <label class="mdl-textfield__label" for="sample1">ID - Will be automatically assigned</label>
+  </div>
+  <div class="mdl-textfield mdl-js-textfield block is-dirty">
+    <input ng-model="ingredient.name" class="mdl-textfield__input is-upgraded is-dirty" type="text" id="sample1" ng-model="name">
+    <label class="mdl-textfield__label" for="sample1">Name - String</label>
+  </div>
+
+
+    <div class="mdl-textfield mdl-js-textfield block is-dirty">
+    <input class="mdl-textfield__input is-upgraded is-dirty" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="ingredient.pricePerMl" id="sample2">
+    <label class="mdl-textfield__label" for="sample2">Price Per Milliliter - Number</label>
+    <span class="mdl-textfield__error">Input is not a number!</span>
+  </div>
+
+
+<div class="mdl-textfield mdl-js-textfield block is-dirty">
+    <input class="mdl-textfield__input is-upgraded is-dirty" type="text" ng-model="ingredient.archType" id="sample1">
+    <label class="mdl-textfield__label" for="sample1">ArchType - String</label>
+  </div>
+
+  <!-- Accent-colored raised button with ripple -->
+
+</form>
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" ng-click="deleteIngredient()" style="margin-right:30px">
+  delete
+</a>
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" ng-click="editIngredient()"style="margin-left:30px">
+  submit
+</button>
