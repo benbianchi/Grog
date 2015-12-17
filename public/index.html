@@ -20,16 +20,21 @@
 
   <body>
 
+
+
+
+
+
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       <span class="mdl-layout-title">Grog <small ng-controller="metaController">{{version}}</small></span>
       <div class="mdl-layout-spacer"></div>
-      <nav class="mdl-navigation">
+      <!-- <nav class="mdl-navigation">
 				<a class="mdl-navigation__link" href="#">Home</a>
 				<a class="mdl-navigation__link" href="/ontap.html">Browse</a>
 				<a class="mdl-navigation__link" href="#">About</a>
-      </nav>
+      </nav> -->
 			
 			<!-- start search form -->
 			<div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
@@ -48,14 +53,16 @@
 	<div class="mdl-layout__drawer">
     <span class="mdl-layout-title">Grog</span>
     <nav class="mdl-navigation">
-      <a class="mdl-navigation__link" href="#">Admin</a>
-      <a class="mdl-navigation__link" href="#">Statistics</a>
-      <a class="mdl-navigation__link" href="#">Something else</a>
+      <a class="mdl-navigation__link" href="/browse.html">Browse</a>
+      <a class="mdl-navigation__link" href="/statistics.html">Statistics</a>
+      <a class="mdl-navigation__link" href="/admin.html">Admin</a>
     </nav>
   </div>
   </div>
   <div class="mdl-grid">
-      <div class="mdl-cell mdl-cell--4-col"></div>
+      <div class="mdl-cell mdl-cell--4-col">
+        
+      </div>
   <div class="mdl-cell mdl-cell--4-col">4</div>
   <div class="mdl-cell mdl-cell--4-col">4</div>
     </div>

@@ -1,89 +1,129 @@
 <!DOCTYPE html>
 <html ng-app="grogApp">
-<head>
-  <meta charset="UTF-8">
-  <meta name="google" value="notranslate">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="google" value="notranslate">
 
 
-  <title>Grog</title>
+    <title>Grog</title>
+    
+    
+    
+    <link rel='stylesheet prefetch' href='//fonts.googleapis.com/icon?family=Material+Icons'>
+<link rel='stylesheet prefetch' href='//storage.googleapis.com/code.getmdl.io/1.0.2/material.teal-red.min.css'>
+
+    
+    
+    
+    
+  </head>
+
+  <body>
+
+  
 
 
 
-  <link rel='stylesheet prefetch' href='//fonts.googleapis.com/icon?family=Material+Icons'>
-  <link rel='stylesheet prefetch' href='//storage.googleapis.com/code.getmdl.io/1.0.2/material.teal-red.min.css'>
-  <link rel="stylesheet" href="css/index.css">
 
-
-
-
-
-</head>
-
-<body>
-
-  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-    <header class="mdl-layout__header">
-      <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title">Grog <small ng-controller="metaController">{{version}}</small></span>
-        <div class="mdl-layout-spacer"></div>
-        <nav class="mdl-navigation">
-          <a class="mdl-navigation__link" href="#">Home</a>
-          <a class="mdl-navigation__link" href="/ontap.html">Browse</a>
-          <a class="mdl-navigation__link" href="#">About</a>
-        </nav>
-
-        <!-- start search form -->
-        <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
-          <label class="mdl-button mdl-js-button mdl-button--icon" for="search-expandable">
-           <i class="material-icons">search</i>
-         </label>
-         <div class="mdl-textfield__expandable-holder">
-           <input class="mdl-textfield__input" type="text" id="search-expandable" />
-           <label class="mdl-textfield__label" for="search-expandable">Search text</label>
-         </div>
-       </div>
-       <!-- end search form -->
-
-     </div>
-   </header>
-   <div class="mdl-layout__drawer">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <span class="mdl-layout-title">Grog <small ng-controller="metaController">{{version}}</small></span>
+      <div class="mdl-layout-spacer"></div>
+      <!-- <nav class="mdl-navigation">
+				<a class="mdl-navigation__link" href="#">Home</a>
+				<a class="mdl-navigation__link" href="/ontap.html">Browse</a>
+				<a class="mdl-navigation__link" href="#">About</a>
+      </nav> -->
+			
+			<!-- start search form -->
+			<div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
+				<label class="mdl-button mdl-js-button mdl-button--icon" for="search-expandable">
+					<i class="material-icons">search</i>
+				</label>
+				<div class="mdl-textfield__expandable-holder">
+					<input class="mdl-textfield__input" type="text" id="search-expandable" />
+					<label class="mdl-textfield__label" for="search-expandable">Search text</label>
+				</div>
+			</div>
+			<!-- end search form -->
+			
+    </div>
+  </header>
+	<div class="mdl-layout__drawer">
     <span class="mdl-layout-title">Grog</span>
     <nav class="mdl-navigation">
-      <a class="mdl-navigation__link" href="#Valve_Heading">Valves</a>
-      <a class="mdl-navigation__link" href="#">Prices</a>
-      <a class="mdl-navigation__link" href="#">Statistics</a>
-      <a class="mdl-navigation__link" href="#">Other</a>
-      <!-- <a class="mdl-navigation__link" href="#">Blog</a> -->
+      <a class="mdl-navigation__link" href="/browse.html">Browse</a>
+      <a class="mdl-navigation__link" href="/statistics.html">Statistics</a>
+      <a class="mdl-navigation__link" href="/admin.html">Admin</a>
     </nav>
   </div>
-</div>
-<div class="spacer"></div>
-<div class="mdl-grid">
-  <div class="mdl-cell mdl-cell--2-col"></div>
-  <div class="mdl-cell mdl-cell--8-col" data-ng-controller="valveController">
-  <h3 style="text-align:center"  id="Valve_Heading">Valves</h3>
-
-  <span ng-repeat="v in allValves" class="block">
-  <h5 style="display:inline-block; margin-right:40px;">Valve {{$index}}</h4>
-    <div class="mdl-textfield mdl-js-textfield" >
-      <input class="mdl-textfield__input" type="text" id="fname" value="{{v.type}}">
-      <label class="mdl-textfield__label" for="fname">Type</label>
-    </div>
-    <div class="mdl-textfield mdl-js-textfield" style="margin-left:60px;">
-      <input class="mdl-textfield__input" type="text" id="fname" value="{{v.amount}}">
-      <label class="mdl-textfield__label" for="fname">Amount in mL</label>
-    </div>
-  </span>
-  <!-- Raised button -->
-<button class="mdl-button mdl-js-button mdl-button--raised" style="left:calc(50% - 30px)">Save</button>
   </div>
-  <div class="mdl-cell mdl-cell--2-col"></div>
+  
+  <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--4-col">
+        <!-- Square card -->
+
+<div class="demo-card-square mdl-card mdl-shadow--2dp" style="top:100px; width:320px; height:320px;max-width:280px">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Valves</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    Configure valves, their amounts, and what type of ingredients are in them!
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a href="/valves.html" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+      Configure Valves
+    </a>
+  </div>
 </div>
 
+      </div>
+  <div class="mdl-cell mdl-cell--4-col">
 
-</body>
-<script src='//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js'></script>
-<script src="bower_components/angular/angular.min.js"></script>
-<script src="controller/configController.js"></script>
+  <div class="demo-card-square mdl-card mdl-shadow--2dp" style="top:100px; width:320px; height:320px;max-width:280px">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Ingredients</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    Add and edit new ingredients that your drinks are made of.
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a href="ingredients.html" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+      Edit Ingredients
+    </a>
+  </div>
+</div>
+    
+  </div>
+  <div class="mdl-cell mdl-cell--4-col">
+
+    <div class="demo-card-square mdl-card mdl-shadow--2dp" style="top:100px; width:100%; height:320px; max-width:280px">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Drinks</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    Configure recipes for drinks, their authors, their names, and what type of ingredients are in them!
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a href="/drinks.html" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+      Configure Drinks
+    </a>
+  </div>
+</div>
+
+  </div>
+    </div>
+    
+
+  
+  
+    
+    
+    
+  </body>
+    <script src='//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js'></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="controller/controllers.js"></script>
 </html>
-
+ 

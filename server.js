@@ -11,7 +11,9 @@
     var app = express();
     app.use(bodyParser()); 
     app.use(express.static(__dirname + '/public'));
-    var routes = require('./routes/route.js');
+    var routes = require('./routes/grogRoutes.js');
+    
+
 	app.use('/', routes);
 
     app.get('/', function (req, res) {

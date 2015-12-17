@@ -3,6 +3,7 @@ module.exports = (function() {
     var router = require('express').Router();
 
     var Ingredient = require("../models/Ingredient.js")
+    
      //Ingredient Routes
 
     router.get('/store/ingredients/:id', function (req, res, next) {
