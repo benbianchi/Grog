@@ -5,15 +5,15 @@ grogApp.config(['$routeProvider',
     function($routeProvider) {
         $routeProvider.
         when('/view/:index', {
-            templateUrl: '/partials/IngredientDetail.html',
+            templateUrl: '/ingredient_Partials/IngredientDetail.html',
             controller: 'editIngredient'
         }).
         when('/new/', {
-            templateUrl: '/partials/NewIngredient.html',
+            templateUrl: '/ingredient_Partials/NewIngredient.html',
             controller: 'newIngredientController'
         }).
         when('/', {
-            templateUrl: '/partials/IngredientDirectory.html',
+            templateUrl: '/ingredient_Partials/IngredientDirectory.html',
             controller: 'IngredientController'
         })
     }]);
@@ -47,6 +47,7 @@ grogApp.controller('newIngredientController', ['$http', '$scope', function($http
     // this callback will be called asynchronously
     console.log(response.data);
     $scope.id = response.data._id
+    location.reload();
 }, function errorCallback(response) {
     console.log(response);
     // or server returns response with an error status.
@@ -68,7 +69,7 @@ grogApp.controller("editIngredient",['$route','$http','$scope', 'Ingredients', '
                 }).then(function successCallback(response) {
     // this callback will be called asynchronously
     alert("Successful Delete")
-    location.load();
+    location.reload();
     
     
 }, function errorCallback(response) {

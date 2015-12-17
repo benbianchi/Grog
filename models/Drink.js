@@ -5,7 +5,7 @@ var DrinkSchema = new mongoose.Schema({
   author: String,
   description: String,
   upvotes:Number,
-  ingredients: Array,
+  ingredients: [{amount:Number, Type:mongoose.Schema.ObjectId}],
   instructions: Array,
   updated_at: { type: Date, default: Date.now }
 

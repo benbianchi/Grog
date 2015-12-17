@@ -1,0 +1,28 @@
+<span>
+  <h3>Drinks  
+   <a href="#/new" class="mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab mdl-button--colored">
+      <i class="material-icons">add</i>
+  </a>
+
+</h3>
+ </span>
+<table ng-controller="newDrinkController"	class="mdl-data-table mdl-js-data-table" style="width:100%">
+  <thead>
+    <tr>
+      <th class="mdl-data-table__cell--non-numeric">Name</th>
+      <th class="mdl-data-table__cell--non-numeric">Author</th>
+      <th class="mdl-data-table__cell--non-numeric">Description</th>
+      <th class="mdl-data-table__cell--non-numeric">Upvotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="drink in drinks">
+      <td class="mdl-data-table__cell--non-numeric"><a href="drinks.html#/view/{{$index}}">{{drink.name}}</a></td>
+      <td class="mdl-data-table__cell--non-numeric">{{drink.euthor}}</td>
+      <td class="mdl-data-table__cell--non-numeric">{{drink.description}}</td>
+      <td class="mdl-data-table__cell--non-numeric">{{drink.upvotes}}</td>
+
+    </tr>
+  </tbody>
+</table>
+

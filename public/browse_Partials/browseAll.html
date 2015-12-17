@@ -1,0 +1,21 @@
+<div ng-controller="browseAllController">
+	<div class="mdl-grid"  >
+		<div class="Recipe_Card mdl-cell" ng-repeat="drink in availableDrinks">
+			<div class=" mdl-shadow--2dp">
+				<div class="mdl-card__title">
+				<h2 class="mdl-card__title-text">{{drink.name}}</h2>
+				</div>
+
+				<div class="mdl-card__actions mdl-card--border" >
+					<a href="browse.html#/view/{{$index}}" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect view-drink">
+  View
+</a>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+
+</div>
