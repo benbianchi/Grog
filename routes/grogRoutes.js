@@ -3,20 +3,12 @@ module.exports = (function() {
     var router = require('express').Router();
 
     var Ingredient = require("../models/Ingredient.js")
-
-    var Drink = require("../models/Drink.js")
-
-
+    var Drink = require("../models/Drink.js");
+    var Valve = require("../models/Valve.js");
+    var log = require("../mixins/mixins.js")
    // Config Routes:
 
-    router.post('/config/grog.json/', function (req, res, next) {
-        console.log("Write to grog.json");
-        var fs = require('fs');
-        fs.writeFileSync("public/config/grog.json",JSON.stringify(req.body),'utf8');   
-            
-        
-    });
-    // End of Config Routes
+        // End of Config Routes
     
     //Ingredient Routes
 
@@ -26,6 +18,16 @@ module.exports = (function() {
             res.json(ingredient);
         });
     });
+
+
+
+    router.get('/app/MetaData', function(req,res,next) {
+
+
+        var fs = require('fs');
+        console.log(process.argv[1]);
+       res.send(fs.readFileSync(__dirname +"/../public/js/config/metadata.json",'utf8'));
+    })
 
     router.delete('/store/ingredients/:id', function (req, res, next) {
         console.log(req.params);
@@ -183,6 +185,13 @@ var ingr;
                 res.json(list)});
         });
 
+        router.get('/store/valves', function(req,res,next) {
+
+            Valve.find({}, function(err,list) {
+                res.json(list)});
+                log.debug("Recieved Request for Valves");
+        });
+
         router.post('/store/drinks', function(req,res,next) {
 
      
@@ -238,12 +247,45 @@ function arrUnique(arr) {
 }
 
 
+        router.post('/store/valve/', function(req,res,next) {
+
+     
+            var valve;
+            console.log(req.body);
+            console.log(req.params);
+
+
+            
+ 
+
+                    valve = new Valve(req.body);
+                    console.log(valve);
+                    valve.save(function(err)
+                    {
+                        if (!err)
+                            console.log("successful");
+                        else
+                            console.log(err);
+                        return;
+                    })
+
+                    res.json(valve);
+                
+
+            });
+
 
 
     router.get('/store/getAvailableDrinks/', function(req,res,next) {
 
                 var fs = require('fs');
-        var valves =JSON.parse(fs.readFileSync("public/config/grog.json",'utf8'));
+
+                var valves = []
+                    Valve.find({}, function(err,list) {
+                        log.info("Retrieving Valves from Server...")
+
+        valves = list});
+
         var avD = [];
         var arr = [];
         for (var i = valves.length - 1; i >= 0; i--) {

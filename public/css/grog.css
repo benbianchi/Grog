@@ -1,0 +1,22 @@
+
+
+.main-view
+{
+	position: relative;
+	height: 100%;
+	top:0px;
+	margin-top:0px;
+	margin-left: 0px;
+	padding-left:0px;
+	left: 0px;	
+}
+.grog-nav
+{
+	margin-bottom:0px; 
+}
+
+canvas
+{
+	width: 100%;
+	height: 600px;
+}

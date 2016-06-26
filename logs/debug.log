@@ -1,0 +1,1456 @@
+[2016-04-15 13:24:05.608] [INFO] debug - Logger attached to process.
+[2016-04-15 13:24:05.647] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:24:05.649] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:24:05.658] [INFO] debug - Connected to database
+[2016-04-15 13:24:07.725] [INFO] debug - Shutdown...
+[2016-04-15 13:24:18.235] [INFO] debug - Logger attached to process.
+[2016-04-15 13:24:18.275] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:24:18.277] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:24:18.286] [INFO] debug - Connected to database
+[2016-04-15 13:26:00.899] [INFO] debug - Shutdown...
+[2016-04-15 13:26:01.590] [INFO] debug - Logger attached to process.
+[2016-04-15 13:26:01.632] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:26:01.634] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:26:01.643] [INFO] debug - Connected to database
+[2016-04-15 13:28:28.209] [INFO] debug - Logger attached to process.
+[2016-04-15 13:28:28.247] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:28:28.249] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:28:28.259] [INFO] debug - Connected to database
+[2016-04-15 13:29:07.398] [INFO] debug - Shutdown...
+[2016-04-15 13:32:42.453] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:32:42.456] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:32:42.466] [INFO] debug - Connected to database
+[2016-04-15 13:33:06.874] [INFO] debug - Shutdown...
+[2016-04-15 13:33:17.774] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:33:17.776] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:33:17.786] [INFO] debug - Connected to database
+[2016-04-15 13:33:45.799] [INFO] debug - Shutdown...
+[2016-04-15 13:33:46.477] [INFO] debug - Binding Routes to Server...
+[2016-04-15 13:33:46.479] [INFO] debug - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:33:46.489] [INFO] debug - Connected to database
+[2016-04-15 13:33:48.288] [DEBUG] debug - Received Request at address/store/valves
+[2016-04-15 13:34:26.193] [INFO] debug - Shutdown...
+[2016-04-15 13:34:26.833] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:34:26.835] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:34:26.845] [INFO] GROG - Connected to database
+[2016-04-15 13:36:26.199] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:36:27.438] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:21.444] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:29.318] [INFO] GROG - Shutdown...
+[2016-04-15 13:37:30.498] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:37:30.501] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:37:30.511] [INFO] GROG - Connected to database
+[2016-04-15 13:37:32.919] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:47.793] [INFO] GROG - Shutdown...
+[2016-04-15 13:37:48.544] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:37:48.547] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:37:48.557] [INFO] GROG - Connected to database
+[2016-04-15 13:37:52.907] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:53.341] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:56.699] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:59.465] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:37:59.469] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:03.947] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:05.089] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:06.236] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.056] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.247] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.395] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.556] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.708] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:07.966] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:08.141] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:08.438] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:08.921] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:09.122] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:09.262] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:09.411] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:09.712] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:09.900] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:10.012] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:10.194] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:28.475] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:38:41.812] [INFO] GROG - Shutdown...
+[2016-04-15 13:39:14.223] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:39:14.226] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:39:14.236] [INFO] GROG - Connected to database
+[2016-04-15 13:39:21.323] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:39:21.676] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:39:52.623] [INFO] GROG - Shutdown...
+[2016-04-15 13:39:53.432] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:39:53.435] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:39:53.444] [INFO] GROG - Connected to database
+[2016-04-15 13:40:15.695] [INFO] GROG - Shutdown...
+[2016-04-15 13:40:16.376] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:40:16.379] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:40:16.389] [INFO] GROG - Connected to database
+[2016-04-15 13:40:19.210] [ERROR] GROG - Unable to bind routes.[object Object]
+[2016-04-15 13:40:34.226] [INFO] GROG - Shutdown...
+[2016-04-15 13:40:34.895] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:40:34.898] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:40:34.908] [INFO] GROG - Connected to database
+[2016-04-15 13:41:19.881] [INFO] GROG - Shutdown...
+[2016-04-15 13:41:20.556] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:41:20.559] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:41:20.569] [INFO] GROG - Connected to database
+[2016-04-15 13:41:56.587] [INFO] GROG - Shutdown...
+[2016-04-15 13:41:57.198] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:41:57.201] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:41:57.210] [INFO] GROG - Connected to database
+[2016-04-15 13:41:58.995] [ERROR] GROG - Unable to bind routes. 
+[2016-04-15 13:42:14.141] [INFO] GROG - Shutdown...
+[2016-04-15 13:42:14.815] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:42:14.818] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:42:14.827] [INFO] GROG - Connected to database
+[2016-04-15 13:42:15.990] [ERROR] GROG - Unable to bind routes. 
+[2016-04-15 13:42:15.990] [ERROR] GROG - { _readableState: 
+   { highWaterMark: 16384,
+     buffer: [],
+     length: 0,
+     pipes: null,
+     pipesCount: 0,
+     flowing: false,
+     ended: true,
+     endEmitted: false,
+     reading: false,
+     calledRead: false,
+     sync: true,
+     needReadable: false,
+     emittedReadable: false,
+     readableListening: false,
+     objectMode: false,
+     defaultEncoding: 'utf8',
+     ranOut: false,
+     awaitDrain: 0,
+     readingMore: false,
+     decoder: null,
+     encoding: null },
+  readable: true,
+  domain: null,
+  _events: {},
+  _maxListeners: 10,
+  socket: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742135987,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  connection: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742135987,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  httpVersion: '1.1',
+  complete: true,
+  headers: 
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     'cache-control': 'max-age=0',
+     accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+     'upgrade-insecure-requests': '1',
+     'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
+     'accept-encoding': 'gzip, deflate, sdch',
+     'accept-language': 'en-US,en;q=0.8' },
+  trailers: {},
+  _pendings: [],
+  _pendingIndex: 0,
+  url: '/',
+  method: 'GET',
+  statusCode: null,
+  client: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742135987,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  _consuming: false,
+  _dumped: false,
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  upgrade: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/',
+  _parsedUrl: 
+   { protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' },
+  params: {},
+  query: {},
+  res: 
+   { domain: null,
+     _events: { finish: [Function] },
+     _maxListeners: 10,
+     output: [],
+     outputEncodings: [],
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: true,
+     _headerSent: false,
+     _header: '',
+     _hasBody: true,
+     _trailer: '',
+     finished: false,
+     _hangupClose: false,
+     socket: 
+      { _connecting: false,
+        _handle: [Object],
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        onend: [Function],
+        destroyed: false,
+        errorEmitted: false,
+        bytesRead: 394,
+        _bytesDispatched: 0,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 1460742135987,
+        parser: [Object],
+        ondata: [Function],
+        _paused: false,
+        _httpMessage: [Circular] },
+     connection: 
+      { _connecting: false,
+        _handle: [Object],
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        onend: [Function],
+        destroyed: false,
+        errorEmitted: false,
+        bytesRead: 394,
+        _bytesDispatched: 0,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 1460742135987,
+        parser: [Object],
+        ondata: [Function],
+        _paused: false,
+        _httpMessage: [Circular] },
+     _headers: { 'x-powered-by': 'Express' },
+     _headerNames: { 'x-powered-by': 'X-Powered-By' },
+     req: [Circular],
+     locals: {} },
+  body: {},
+  _parsedOriginalUrl: 
+   { protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' } }
+[2016-04-15 13:42:57.474] [INFO] GROG - Shutdown...
+[2016-04-15 13:42:58.243] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:42:58.246] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:42:58.256] [INFO] GROG - Connected to database
+[2016-04-15 13:43:00.053] [ERROR] GROG - Unable to bind routes. 
+[2016-04-15 13:43:00.053] [ERROR] GROG - { _readableState: 
+   { highWaterMark: 16384,
+     buffer: [],
+     length: 0,
+     pipes: null,
+     pipesCount: 0,
+     flowing: false,
+     ended: true,
+     endEmitted: false,
+     reading: false,
+     calledRead: false,
+     sync: true,
+     needReadable: false,
+     emittedReadable: false,
+     readableListening: false,
+     objectMode: false,
+     defaultEncoding: 'utf8',
+     ranOut: false,
+     awaitDrain: 0,
+     readingMore: false,
+     decoder: null,
+     encoding: null },
+  readable: true,
+  domain: null,
+  _events: {},
+  _maxListeners: 10,
+  socket: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742180048,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  connection: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742180048,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  httpVersion: '1.1',
+  complete: true,
+  headers: 
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     'cache-control': 'max-age=0',
+     accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+     'upgrade-insecure-requests': '1',
+     'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
+     'accept-encoding': 'gzip, deflate, sdch',
+     'accept-language': 'en-US,en;q=0.8' },
+  trailers: {},
+  _pendings: [],
+  _pendingIndex: 0,
+  url: '/',
+  method: 'GET',
+  statusCode: null,
+  client: 
+   { _connecting: false,
+     _handle: 
+      { fd: 17,
+        writeQueueSize: 0,
+        owner: [Circular],
+        onread: [Function: onread],
+        reading: true },
+     _readableState: 
+      { highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: false,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        calledRead: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        objectMode: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Function],
+        close: [Object] },
+     _maxListeners: 10,
+     _writableState: 
+      { highWaterMark: 16384,
+        objectMode: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        buffer: [] },
+     writable: true,
+     allowHalfOpen: true,
+     onend: [Function],
+     destroyed: false,
+     errorEmitted: false,
+     bytesRead: 394,
+     _bytesDispatched: 0,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 1460742180048,
+     parser: 
+      { _headers: [],
+        _url: '',
+        onHeaders: [Function: parserOnHeaders],
+        onHeadersComplete: [Function: parserOnHeadersComplete],
+        onBody: [Function: parserOnBody],
+        onMessageComplete: [Function: parserOnMessageComplete],
+        socket: [Circular],
+        incoming: [Circular],
+        maxHeaderPairs: 2000,
+        onIncoming: [Function] },
+     ondata: [Function],
+     _paused: false,
+     _httpMessage: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        output: [],
+        outputEncodings: [],
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _headerSent: false,
+        _header: '',
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _hangupClose: false,
+        socket: [Circular],
+        connection: [Circular],
+        _headers: [Object],
+        _headerNames: [Object],
+        req: [Circular],
+        locals: {} } },
+  _consuming: false,
+  _dumped: false,
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  upgrade: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/',
+  _parsedUrl: 
+   { protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' },
+  params: {},
+  query: {},
+  res: 
+   { domain: null,
+     _events: { finish: [Function] },
+     _maxListeners: 10,
+     output: [],
+     outputEncodings: [],
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: true,
+     _headerSent: false,
+     _header: '',
+     _hasBody: true,
+     _trailer: '',
+     finished: false,
+     _hangupClose: false,
+     socket: 
+      { _connecting: false,
+        _handle: [Object],
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        onend: [Function],
+        destroyed: false,
+        errorEmitted: false,
+        bytesRead: 394,
+        _bytesDispatched: 0,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 1460742180048,
+        parser: [Object],
+        ondata: [Function],
+        _paused: false,
+        _httpMessage: [Circular] },
+     connection: 
+      { _connecting: false,
+        _handle: [Object],
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        onend: [Function],
+        destroyed: false,
+        errorEmitted: false,
+        bytesRead: 394,
+        _bytesDispatched: 0,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 1460742180048,
+        parser: [Object],
+        ondata: [Function],
+        _paused: false,
+        _httpMessage: [Circular] },
+     _headers: { 'x-powered-by': 'Express' },
+     _headerNames: { 'x-powered-by': 'X-Powered-By' },
+     req: [Circular],
+     locals: {} },
+  body: {},
+  _parsedOriginalUrl: 
+   { protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' } }
+[2016-04-15 13:43:34.693] [INFO] GROG - Shutdown...
+[2016-04-15 13:43:43.632] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:43:43.634] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:43:43.644] [INFO] GROG - Connected to database
+[2016-04-15 13:43:45.268] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:43:59.877] [INFO] GROG - Shutdown...
+[2016-04-15 13:44:01.847] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:44:01.851] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:44:01.861] [INFO] GROG - Connected to database
+[2016-04-15 13:44:03.566] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:44:18.842] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:44:20.719] [INFO] GROG - Shutdown...
+[2016-04-15 13:44:21.388] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:44:21.391] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:44:21.401] [INFO] GROG - Connected to database
+[2016-04-15 13:44:24.566] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:45:04.816] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:45:07.593] [INFO] GROG - Shutdown...
+[2016-04-15 13:45:08.261] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:45:08.263] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:45:08.273] [INFO] GROG - Connected to database
+[2016-04-15 13:45:09.149] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:45:17.867] [INFO] GROG - Shutdown...
+[2016-04-15 13:45:18.511] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:45:18.514] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:45:18.524] [INFO] GROG - Connected to database
+[2016-04-15 13:45:19.611] [INFO] GROG - Unable to bind routes.
+[2016-04-15 13:45:55.651] [INFO] GROG - Shutdown...
+[2016-04-15 13:45:56.529] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:45:56.532] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:45:56.542] [INFO] GROG - Connected to database
+[2016-04-15 13:46:33.462] [INFO] GROG - Shutdown...
+[2016-04-15 13:46:34.086] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:46:34.089] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:46:34.098] [INFO] GROG - Connected to database
+[2016-04-15 13:46:41.833] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:46:41.836] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:46:41.845] [INFO] GROG - Connected to database
+[2016-04-15 13:47:52.414] [INFO] GROG - Binding Routes to Server...
+[2016-04-15 13:47:52.417] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-04-15 13:47:52.426] [INFO] GROG - Connected to database
+[2016-04-15 13:47:53.703] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 13:48:37.607] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 13:50:20.272] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 13:50:47.127] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:03:28.551] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:03:48.621] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:05:08.326] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:05:56.079] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:07:00.503] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:08:24.093] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:08:57.332] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:09:07.653] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:11:13.254] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:12:21.112] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:12:33.661] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:13:26.599] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:13:33.913] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:15:17.820] [DEBUG] GROG - Recieved Request for Valves
+[2016-04-15 14:16:06.591] [DEBUG] GROG - Recieved Request for Valves
+[2016-05-10 12:05:48.492] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:05:48.495] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:05:48.507] [INFO] GROG - Connected to database
+[2016-05-10 12:33:56.132] [INFO] GROG - Shutdown...
+[2016-05-10 12:33:57.205] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:33:57.208] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:33:57.220] [INFO] GROG - Connected to database
+[2016-05-10 12:34:15.219] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:34:15.221] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:34:15.231] [INFO] GROG - Connected to database
+[2016-05-10 12:34:43.297] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:34:43.300] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:34:43.310] [INFO] GROG - Connected to database
+[2016-05-10 12:35:54.274] [INFO] GROG - Shutdown...
+[2016-05-10 12:35:54.997] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:35:55.000] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:35:55.009] [INFO] GROG - Connected to database
+[2016-05-10 12:35:56.076] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:36:35.417] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:37:46.497] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:40:31.877] [INFO] GROG - Shutdown...
+[2016-05-10 12:40:33.198] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:40:33.201] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:40:33.211] [INFO] GROG - Connected to database
+[2016-05-10 12:42:53.053] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:42:53.056] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:42:53.068] [INFO] GROG - Connected to database
+[2016-05-10 12:46:05.595] [INFO] GROG - Shutdown...
+[2016-05-10 12:46:06.366] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:46:06.368] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:46:06.379] [INFO] GROG - Connected to database
+[2016-05-10 12:46:43.762] [INFO] GROG - Shutdown...
+[2016-05-10 12:46:44.408] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:46:44.411] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:46:44.421] [INFO] GROG - Connected to database
+[2016-05-10 12:47:06.004] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:49:29.376] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:49:29.965] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:49:30.286] [INFO] GROG - Retrieving Valves from Server...
+[2016-05-10 12:54:38.269] [INFO] GROG - Shutdown...
+[2016-05-10 12:55:14.051] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:55:14.053] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:55:14.063] [INFO] GROG - Connected to database
+[2016-05-10 12:55:16.544] [INFO] GROG - Shutdown...
+[2016-05-10 12:55:56.807] [INFO] GROG - Dumping Valves...
+[2016-05-10 12:55:56.810] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 12:55:56.810] [INFO] GROG - Dumping Drinks...
+[2016-05-10 12:55:56.836] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:55:56.839] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:55:56.852] [INFO] GROG - Connected to database
+[2016-05-10 12:55:56.855] [INFO] GROG - [ { ingredients: 
+     [ { _id: 56a2aabf3eb18aca11362d7f,
+         Type: 56a2aa913eb18aca11362d7d,
+         amount: 100 } ],
+    instructions: [ { text: 'Just Pout' } ],
+    updated_at: Fri Jan 22 2016 17:18:39 GMT-0500 (EST),
+    __v: 0,
+    description: 'Just Gin',
+    author: 'Ben',
+    name: 'Straight Gin',
+    _id: 56a2aabf3eb18aca11362d7e } ]
+[2016-05-10 12:55:56.858] [INFO] GROG - [ { __v: 0, _id: 5732109d7a2c2ca12d17fa6f },
+  { __v: 0, _id: 5732110c7a2c2ca12d17fa70 } ]
+[2016-05-10 12:55:56.858] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 12:56:40.569] [INFO] GROG - Shutdown...
+[2016-05-10 12:56:41.364] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 12:56:41.369] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 12:56:41.382] [INFO] GROG - Connected to database
+[2016-05-10 12:56:41.384] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 12:56:41.385] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 12:56:41.387] [INFO] GROG - Dumping Drinks...
+[2016-05-10 12:56:41.388] [INFO] GROG - [ { ingredients: 
+     [ { _id: 56a2aabf3eb18aca11362d7f,
+         Type: 56a2aa913eb18aca11362d7d,
+         amount: 100 } ],
+    instructions: [ { text: 'Just Pout' } ],
+    updated_at: Fri Jan 22 2016 17:18:39 GMT-0500 (EST),
+    __v: 0,
+    description: 'Just Gin',
+    author: 'Ben',
+    name: 'Straight Gin',
+    _id: 56a2aabf3eb18aca11362d7e } ]
+[2016-05-10 12:56:41.388] [INFO] GROG - Dumping Valves...
+[2016-05-10 12:56:41.389] [INFO] GROG - [ { __v: 0, _id: 5732109d7a2c2ca12d17fa6f },
+  { __v: 0, _id: 5732110c7a2c2ca12d17fa70 } ]
+[2016-05-10 13:27:55.644] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:27:55.646] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:27:55.656] [INFO] GROG - Connected to database
+[2016-05-10 13:28:21.209] [INFO] GROG - Shutdown...
+[2016-05-10 13:28:21.936] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:28:21.939] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:28:21.948] [INFO] GROG - Connected to database
+[2016-05-10 13:28:22.717] [INFO] GROG - Shutdown...
+[2016-05-10 13:28:24.645] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:28:24.649] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:28:24.661] [INFO] GROG - Connected to database
+[2016-05-10 13:28:24.663] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 13:28:24.663] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 13:28:24.666] [INFO] GROG - Dumping Drinks...
+[2016-05-10 13:28:24.666] [INFO] GROG - [ { ingredients: 
+     [ { _id: 56a2aabf3eb18aca11362d7f,
+         Type: 56a2aa913eb18aca11362d7d,
+         amount: 100 } ],
+    instructions: [ { text: 'Just Pout' } ],
+    updated_at: Fri Jan 22 2016 17:18:39 GMT-0500 (EST),
+    __v: 0,
+    description: 'Just Gin',
+    author: 'Ben',
+    name: 'Straight Gin',
+    _id: 56a2aabf3eb18aca11362d7e } ]
+[2016-05-10 13:28:24.667] [INFO] GROG - Dumping Valves...
+[2016-05-10 13:28:24.667] [INFO] GROG - [ { __v: 0, _id: 5732109d7a2c2ca12d17fa6f },
+  { __v: 0, _id: 5732110c7a2c2ca12d17fa70 } ]
+[2016-05-10 13:28:26.123] [INFO] GROG - Shutdown...
+[2016-05-10 13:29:57.886] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:29:57.890] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:29:57.902] [INFO] GROG - Connected to database
+[2016-05-10 13:29:57.905] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 13:29:57.905] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 13:29:57.908] [INFO] GROG - Dumping Drinks...
+[2016-05-10 13:33:55.978] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:33:55.981] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:33:55.991] [INFO] GROG - Connected to database
+[2016-05-10 13:34:46.868] [INFO] GROG - Shutdown...
+[2016-05-10 13:34:47.603] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:34:47.605] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:34:47.616] [INFO] GROG - Connected to database
+[2016-05-10 13:41:20.117] [INFO] GROG - Shutdown...
+[2016-05-10 13:41:21.528] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:41:21.531] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:41:21.544] [INFO] GROG - Connected to database
+[2016-05-10 13:41:21.546] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 13:41:21.547] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 13:41:21.549] [INFO] GROG - Dumping Drinks...
+[2016-05-10 13:42:28.030] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:42:28.034] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:42:28.046] [INFO] GROG - Connected to database
+[2016-05-10 13:42:28.049] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 13:42:28.049] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 13:42:28.052] [INFO] GROG - Dumping Drinks...
+[2016-05-10 13:42:29.795] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:42:29.797] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:42:29.807] [INFO] GROG - Connected to database
+[2016-05-10 13:43:11.439] [INFO] GROG - Shutdown...
+[2016-05-10 13:43:12.093] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:43:12.096] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:43:12.106] [INFO] GROG - Connected to database
+[2016-05-10 13:43:23.380] [INFO] GROG - Shutdown...
+[2016-05-10 13:43:24.104] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:43:24.107] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:43:24.117] [INFO] GROG - Connected to database
+[2016-05-10 13:43:31.533] [INFO] GROG - Shutdown...
+[2016-05-10 13:43:32.855] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:43:32.859] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:43:32.871] [INFO] GROG - Connected to database
+[2016-05-10 13:43:32.874] [INFO] GROG - Dumping Ingredients...
+[2016-05-10 13:43:32.874] [INFO] GROG - [ { updated_at: Fri Jan 22 2016 17:17:53 GMT-0500 (EST),
+    __v: 0,
+    archType: 'Gin',
+    pricePerMl: 0.001,
+    name: 'Beefeaters',
+    _id: 56a2aa913eb18aca11362d7d } ]
+[2016-05-10 13:43:32.877] [INFO] GROG - Dumping Drinks...
+[2016-05-10 13:51:29.165] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 13:51:29.167] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 13:51:29.177] [INFO] GROG - Connected to database
+[2016-05-10 14:01:14.710] [INFO] GROG - Shutdown...
+[2016-05-10 14:03:46.915] [INFO] GROG - Binding Routes to Server...
+[2016-05-10 14:03:46.917] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-10 14:03:46.927] [INFO] GROG - Connected to database
+[2016-05-11 12:26:02.003] [INFO] GROG - Shutdown...
+[2016-05-11 12:28:10.584] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 12:28:10.587] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 12:28:10.597] [INFO] GROG - Connected to database
+[2016-05-11 13:27:28.174] [INFO] GROG - Shutdown...
+[2016-05-11 13:27:28.825] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:27:28.828] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:27:28.838] [INFO] GROG - Connected to database
+[2016-05-11 13:28:07.531] [INFO] GROG - Shutdown...
+[2016-05-11 13:28:08.161] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:28:08.164] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:28:08.175] [INFO] GROG - Connected to database
+[2016-05-11 13:28:39.067] [INFO] GROG - Shutdown...
+[2016-05-11 13:28:39.732] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:28:39.735] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:28:39.745] [INFO] GROG - Connected to database
+[2016-05-11 13:29:18.885] [INFO] GROG - Shutdown...
+[2016-05-11 13:29:19.494] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:29:19.497] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:29:19.507] [INFO] GROG - Connected to database
+[2016-05-11 13:29:52.873] [INFO] GROG - Shutdown...
+[2016-05-11 13:29:56.829] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:29:56.832] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:29:56.842] [INFO] GROG - Connected to database
+[2016-05-11 13:30:41.521] [INFO] GROG - Shutdown...
+[2016-05-11 13:30:42.314] [INFO] GROG - Binding Routes to Server...
+[2016-05-11 13:30:42.317] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-11 13:30:42.326] [INFO] GROG - Connected to database
+[2016-05-16 13:20:24.462] [INFO] GROG - Binding Routes to Server...
+[2016-05-16 13:20:24.465] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-16 13:20:24.475] [INFO] GROG - Connected to database
+[2016-05-16 13:28:43.340] [INFO] GROG - Shutdown...
+[2016-05-16 13:34:59.549] [INFO] GROG - Binding Routes to Server...
+[2016-05-16 13:34:59.552] [INFO] GROG - Grog listening at http://0.0.0.0:3000
+[2016-05-16 13:34:59.563] [INFO] GROG - Connected to database
+[2016-06-10 17:36:34.105] [INFO] GROG - Binding Routes to Server...
+[2016-06-10 17:36:34.109] [INFO] GROG - Grog listening at http://:::3000
+[2016-06-10 17:36:34.122] [INFO] GROG - Connected to database
+[2016-06-12 22:52:48.399] [INFO] GROG - Binding Routes to Server...
+[2016-06-12 22:52:48.402] [INFO] GROG - Grog listening at http://:::3000
+[2016-06-12 22:52:48.412] [INFO] GROG - Connected to database
+[2016-06-19 21:55:21.371] [INFO] GROG - Binding Routes to Server...
+[2016-06-19 21:55:21.374] [INFO] GROG - Grog listening at http://:::3000
+[2016-06-19 21:55:21.388] [INFO] GROG - Connected to database
